@@ -66,7 +66,7 @@ scope:
   command:
     - "--probe.docker"
     - "true"
-  image: weaveworks/scope:0.13.0
+  image: weaveworks/scope:0.15.0
   net: "host"
   pid: "host"
   ports:
